@@ -1,3 +1,4 @@
+[To the previous PL exercise - NOS and SOS Semantics](https://github.com/ido106/NOS-SOS-Semantics) | [To the next PL exercise - Prolog](https://github.com/ido106/Prolog)
 # Lambda Calculus Interpreter
 In this exercise, we will build a Parser and Interpeter for [Lambda Calculus](https://en.wikipedia.org/wiki/Lambda_calculus) in the [Ocaml](https://ocaml.org/) language.  
 In the `reducer.ml` file, we will implement a parser for calculating Lambda Expressions. The functions are:  
